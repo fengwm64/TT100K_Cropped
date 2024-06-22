@@ -34,7 +34,7 @@ TT100K_Cropped 是一个中国交通标志分类数据集，专门从 TT100K 数
 
 ## 数据集类别
 
-![](pic\u16.jpg)
+![](./pic/u16.jpg)
 
 # Table 1
 | i1 | i2 | i3 | i4 |
@@ -181,11 +181,11 @@ TT100K_Cropped 是一个中国交通标志分类数据集，专门从 TT100K 数
 
 ### 训练集
 
-![](pic\train_class.png)
+![](./pic/train_class.png)
 
 ### 测试集
 
-![](pic\test_class.png)
+![](./pic/test_class.png)
 
 ## 许可证
 
